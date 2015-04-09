@@ -1,0 +1,17 @@
+d32239bcb673463ab874e80d47fae504 *COPYING
+90370752af8e3b00e86be8611709f241 *DESCRIPTION
+46be38a0c6f46109c6fe9069aeec899e *NAMESPACE
+a63a8c7c9b327bacd549cbded1777c9e *R/emov.R
+230aceeb961e98f95673c9148652ea64 *README.md
+ca74ee8604c9240747777f43601adbfe *data/fivesec.rda
+77417f2205c1e49eae0100725c2470f5 *data/fivesec.txt.gz
+1515ea3de7e45ac67d3e1a1444e55646 *demo/00Index
+06f93c837a0f531f667209c63d48df46 *demo/fivesec.R
+e6acb7e1d357fb5c355a01baeb264ba8 *inst/analysis/analysis.R
+cab9a075853001145d86bdd30c0d0f28 *inst/images/plot.png
+f470a99ecfec47c5e2a53849c4bdfba7 *man/emov.angdia.Rd
+de0eb5ff0356f0235bd8fb8543567d32 *man/emov.cart2sphere.Rd
+17befea3497777195fcafc6d569d51d8 *man/emov.filter.Rd
+3d4bc563b4f0f7d138609c95bd016db3 *man/emov.idt.Rd
+5c214f9a1225cfdfe3e8f3ba8edd657a *man/emov.read_iviewsamples.Rd
+9f17217c564dc8e24255e95dcd2da994 *man/fivesec.Rd
