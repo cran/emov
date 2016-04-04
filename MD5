@@ -1,12 +1,12 @@
 d32239bcb673463ab874e80d47fae504 *COPYING
-90370752af8e3b00e86be8611709f241 *DESCRIPTION
-46be38a0c6f46109c6fe9069aeec899e *NAMESPACE
-a63a8c7c9b327bacd549cbded1777c9e *R/emov.R
-230aceeb961e98f95673c9148652ea64 *README.md
+18a919b4fdf60a2e8e1cd12dffb7862e *DESCRIPTION
+42e60afbb6aac96772c2eee607c9bb6c *NAMESPACE
+e42e536420b5fb4152d6c451e4fc75f4 *R/emov.R
+2a1e72ec8722a40917a3c1ff79c2f38e *README.md
 ca74ee8604c9240747777f43601adbfe *data/fivesec.rda
 77417f2205c1e49eae0100725c2470f5 *data/fivesec.txt.gz
 1515ea3de7e45ac67d3e1a1444e55646 *demo/00Index
-06f93c837a0f531f667209c63d48df46 *demo/fivesec.R
+e5ca84a6260551b2c38dd9f5662e3029 *demo/fivesec.R
 e6acb7e1d357fb5c355a01baeb264ba8 *inst/analysis/analysis.R
 cab9a075853001145d86bdd30c0d0f28 *inst/images/plot.png
 f470a99ecfec47c5e2a53849c4bdfba7 *man/emov.angdia.Rd
